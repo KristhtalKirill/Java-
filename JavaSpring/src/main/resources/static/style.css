@@ -1,0 +1,8 @@
+.containerQuestion {
+  display: block;
+  width: 500px;
+  height: 70px;
+  border: 10px double black;
+  justify-content: center;
+  padding: 10px 10px;
+}
