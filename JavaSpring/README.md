@@ -15,8 +15,6 @@ lab 2 - Questions platform
 Вход под пользователем с возможностью
 ответить на вопросы
 
-![Лаб2_1](https://github.com/KristhtalKirill/Java-/assets/81926561/1be9c289-169c-40c4-a3d7-24b9f29469a3)
 
-
-![img_3.png](pictures/img_3.png)
+![2_1](https://github.com/KristhtalKirill/Java-/assets/81926561/868fd573-1db1-4850-b833-3db5a51fa1e8)
 
