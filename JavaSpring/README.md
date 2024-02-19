@@ -17,6 +17,3 @@ lab 2 - Questions platform
 
 ![img_3.png](pictures/img_3.png)
 
-
-
-![Лаб2_1](https://github.com/KristhtalKirill/Java-/assets/81926561/796fa320-a349-4479-a32c-38a1abf8c442)
